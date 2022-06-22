@@ -1,5 +1,5 @@
 # seleniumTesting
-#Code of the Testing
+
 package SeleniumTest;
 
 
